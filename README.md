@@ -5,7 +5,7 @@ Turning data into meaningful insights through analysis, visualization, and probl
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshithaMJ)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailatakshitha@gmail.com)
-[![Linked in](www.linkedin.com/in/akshitha-m-j-4382212ba)
+
 ---
 
 ## 👩‍💻 About Me
